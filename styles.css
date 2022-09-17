@@ -1,0 +1,57 @@
+body{
+    font-family: 'Kalam', cursive;
+    font-weight: 400;
+    background-image: linear-gradient(#f7e7de, #fcf9f6);
+}
+
+.container-fluid{
+    padding: 3% 15%;
+}
+
+#header{
+    padding: 7% 15%;
+}
+
+.navbar{
+    font-family: 'Neucha';
+    font-weight: bold;
+}
+
+.navbar-brand{
+    font-size: xx-large;
+}
+
+.nav-item{
+    padding: 0 18px;
+}
+
+.nav-link{
+    font-size: 1.2rem;
+}
+
+#about{
+    padding: 7% 15%;
+}
+
+#business{
+    padding: 7% 15%;
+}
+
+#testimonial{
+    padding: 7% 15%;
+}
+
+#social{
+    background-color: #ff4c68;
+    text-align: center;
+    padding: 2% 15%;
+    color: #fff;
+    font-size: 1.5rem;
+}
+
+#footer{
+    padding: 1% 1%;
+    text-align: center;
+    font-family: 'Ubuntu';
+    font-size: small;
+}
